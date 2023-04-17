@@ -1,0 +1,58 @@
+1 FOUNDATIONS
+
+2 EXPERTISE ON BACKEND DEVELOPMENT
+
+3 MONETIZE SKILLS
+
+
+# 1-FOUNDATIONS’STEPS
+
+- [ ]  CS50
+- [ ]  Structures of controls
+- [ ]  Principles
+- [ ]  Shell
+- [ ]  Text editor
+- [ ]  Git
+- [ ]  Scripting
+- [ ]  Paradigmes
+- [ ]  Algorithms : Python
+
+# 2-EXPERTISE ON BACKEND DEV
+
+- [ ]  Learn Backend Development (roadmap.sh)
+- [ ]  Projects
+- [ ]  Prepare for interviews
+
+# 3-MONETIZE SKILLS
+
+- [ ]  Personal branding
+- [ ]  See differents opportunities
+
+# Opportunities after grow skills
+
+- [ ]  All remote
+- [ ]  LinkedIn
+- [ ]  Turing
+- [ ]  Malt
+- [ ]  codeur.com
+- [ ]  Indeed.ca
+
+
+## SOME GOOD SOURCES
+
+- [ ]  cs50
+
+[CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+
+- [ ]  learn enough
+
+[Learn Enough to Be Dangerous](https://www.learnenough.com/)
+
+- [ ]  learn shell
+
+[Learn Shell - Free Interactive Shell Tutorial](https://www.learnshell.org/)
+
+- [ ]  Coursera,Udemy
+- [ ]  Roadmap :
+
+[Developer Roadmaps](https://roadmap.sh/)
